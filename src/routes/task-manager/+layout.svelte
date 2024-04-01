@@ -1,3 +1,3 @@
-<div class="text-white p-20">
+<div class="p-20">
     <slot/>
 </div>
